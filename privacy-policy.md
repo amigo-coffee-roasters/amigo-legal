@@ -3,51 +3,54 @@
 **Amigo Roasters LLC — Payment Receipt Automation**  
 **Last Updated: May 2026**
 
-This Privacy Policy describes how Amigo Roasters LLC ("we," "us," or "our") collects, uses, and protects information when you use our Payment Receipt Automation application (the "App") in connection with QuickBooks Online.
+This Privacy Policy describes how Amigo Roasters LLC ("we," "us," or "our") collects, uses, and protects information when our Payment Receipt Automation solution (the "Solution") connects to QuickBooks Online via Microsoft Power Platform.
 
 ### Scope and Purpose
-The App is developed and provided by Amigo Roasters LLC. It is designed to automate internal accounting workflows, particularly payment receipt processing, by connecting to QuickBooks Online. The App is offered for commercial licensing to third-party businesses under separate agreements.
+The Solution is developed and provided by Amigo Roasters LLC. It is a Microsoft Power Platform-based automation (using Power Apps and Power Automate) designed to automate payment receipt processing and accounting workflows by integrating with QuickBooks Online.
+
+The Solution is offered for commercial licensing to third-party businesses under separate agreements. It runs within the customer’s own Microsoft tenant and accesses their QuickBooks Online data only as authorized.
 
 ### Information We Collect and Access
 
-- **QuickBooks Online Data**: The App accesses and processes accounting data (invoices, payments, receipts, customer information, and related financial records) from your QuickBooks Online account **solely** to perform the automation tasks you authorize.
-- **Usage Data**: We may collect limited technical and usage information (e.g., connection logs, error reports, and performance metrics) to maintain, troubleshoot, and improve the App.
-- **Contact Information**: If you contact us for support, we collect your name, email address, and any information you voluntarily provide.
+- **QuickBooks Online Data**: The Solution accesses accounting data (invoices, payments, receipts, customers, and related financial records) from your QuickBooks Online account **solely** to execute the automated workflows you have configured.
+- **Microsoft Power Platform Data**: Limited flow execution logs, errors, and usage telemetry may be generated as part of the standard operation of Power Automate flows.
+- **Contact Information**: If you contact us for support, we may collect your name, email address, and any details you provide.
 
-We do not collect personal information beyond what is necessary for the App’s functionality and support.
+We only access and process the minimum data necessary to deliver the automation service.
 
 ### How We Use the Information
-- To automate payment receipt and accounting workflows in your QuickBooks Online account.
-- To provide customer support and respond to inquiries.
-- To analyze App performance, fix issues, and make improvements.
-- For internal business purposes related to operating and licensing the App.
+- To run automated payment receipt and accounting workflows in your QuickBooks Online account.
+- To provide technical support and troubleshoot issues.
+- To improve the Solution’s reliability and performance.
+- For internal business purposes related to operating and licensing the Solution.
 
-We act as a **service provider / data processor**. You (or your business) remain the data controller of your QuickBooks data.
+We act strictly as a **service provider / data processor**. You (or your organization) remain the data controller of your QuickBooks and Microsoft data.
 
 ### Sharing and Disclosure
-- **Intuit / QuickBooks**: Data is shared with Intuit only as required through their official APIs to perform the authorized automation.
-- **Service Providers**: We may engage trusted third-party service providers (under strict confidentiality agreements) for hosting, infrastructure, or support services.
-- **Legal Requirements**: We may disclose information if required by law or valid legal process.
-- **Business Transfers**: Your information may be transferred in the event of a merger, acquisition, or sale of assets.
+- **Intuit / QuickBooks**: Data flows through Intuit’s official APIs only as required to perform the authorized automation.
+- **Microsoft**: Data flows through Microsoft Power Platform services as part of normal operation.
+- **Service Providers**: We may use trusted subprocessors (under strict confidentiality and data processing agreements) to support the Solution.
+- **Legal Requirements**: We may disclose information if required by applicable law or valid legal process.
 
-We **do not** sell personal or business data to third parties for marketing or advertising purposes. We do not share one customer’s data with another customer.
+We **do not** sell customer data. We do not share one customer’s data with another customer.
 
 ### Data Security
-We implement reasonable administrative, technical, and physical safeguards to protect the data we handle. However, no system can guarantee absolute security.
+We take reasonable measures to protect the data processed by the Solution. However, no system is 100% secure. Microsoft Power Platform also provides its own security controls, which form part of the overall protection.
 
 ### Your Rights and Choices
-- You can revoke the App’s access to your QuickBooks Online account at any time through your QuickBooks settings.
-- You may request access to, correction of, or deletion of any contact or support information we hold by contacting us.
-- For your QuickBooks data, please manage it directly within QuickBooks Online.
+- You can revoke the Solution’s access to QuickBooks Online at any time via your QuickBooks app settings.
+- You control all permissions and connections from within your Microsoft Power Platform environment.
+- For support-related personal information, you may contact us to request access, correction, or deletion.
+- QuickBooks data should be managed directly in QuickBooks Online.
 
 ### Data Retention
-We retain data only as long as necessary to provide the service, comply with legal obligations, or resolve disputes. QuickBooks data is generally processed in real-time or near real-time and is not stored longer than required for the automation task (unless otherwise specified in your commercial license agreement).
+QuickBooks data is processed in real-time or near real-time by the flows and is not persistently stored by Amigo Roasters LLC beyond what is required for the immediate automation task (unless otherwise specified in your license agreement). Power Automate retains standard flow run history according to your Microsoft tenant settings.
 
 ### Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. The updated version will be posted here with a revised “Last Updated” date. Continued use of the App after changes constitutes acceptance of the new policy.
+We may update this Privacy Policy occasionally. The revised version will be posted on this page with an updated “Last Updated” date.
 
 ### Contact Us
-If you have any questions about this Privacy Policy or our data practices, please contact us at:  
+If you have any questions about this Privacy Policy or the Solution, please contact us at:  
 **info@amigoroasters.com**
 
 ---
