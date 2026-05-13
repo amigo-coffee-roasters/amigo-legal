@@ -29,4 +29,4 @@ to any third parties. It is used exclusively for internal accounting automation.
 
 ## Contact
 
-For questions regarding this privacy policy, contact: accounting@amigoroasters.com
+For questions regarding this privacy policy, contact: info@amigoroasters.com
